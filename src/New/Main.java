@@ -30,6 +30,5 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка закончилась!!!");
-        System.out.println();
     }
 }
